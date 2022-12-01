@@ -1,0 +1,32 @@
+/* 
+colors:
+    Darkest: #2C3333
+    Darker: #395B64
+    Important Text: #A5C9CA
+    Bright Text: #E7F6F2 
+    Links hovered: #BC6FF1
+    Links unvisited: 892CDC
+    links Visited: 
+*/
+
+
+body {
+    background-color: #2C3333;
+    color: #A5C9CA;
+}
+
+a {
+    color: #BC6FF1;
+}
+
+hr {
+    border: 8px dotted;
+    border-style: none;
+    border-top-style: dotted;
+    width: 12%; 
+    border-color: #395B64;
+    }
+
+h1, h3 {
+    color: #E7F6F2;
+}
