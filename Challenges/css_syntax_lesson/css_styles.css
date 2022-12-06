@@ -1,0 +1,24 @@
+/********** TAG SELECTORS ****************/
+h1 {
+    color: red;
+    font-size: 20px;
+}
+img:hover {
+    background-color: red;
+}
+
+/********** CLASS SELECTORS ****************/
+.grape {
+    background-color: green;
+}
+.lemon {
+    background-color: blue;
+}
+.circular {
+    border-radius: 100%;
+}
+
+/********** IDS SELECTORS ****************/
+#heading {
+    color: blue;
+}

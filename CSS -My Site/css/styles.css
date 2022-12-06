@@ -1,11 +1,31 @@
-body{
+body {
   margin: 0;
 }
 
-h1{
+h1 {
   margin-top: 0;
 }
 
-div{
-  background-color: #DCD7C9
+
+.top-container {
+  width: 200px;
+  height: 200px;
+  background-color: #E7F6F2;
+  border: 10px solid black;
+  padding: 20px;
+}
+
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  border: 20px solid black;
+  margin-left: 100%;
+}
+
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 10px solid black;
 }
