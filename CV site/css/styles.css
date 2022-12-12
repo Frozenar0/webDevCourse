@@ -13,6 +13,12 @@ colors:
 body {
     background-color: #2C3333;
     color: #A5C9CA;
+    text-align: center;
+}
+
+.cloudimg {
+    height: 200px;
+    width: 200px;
 }
 
 a {
